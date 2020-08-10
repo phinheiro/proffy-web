@@ -9,9 +9,8 @@ Aplicação web desenvolvida com ReactJS durante a Next Level Week #2 da [Rocket
 Primeiro, clone este repositório:
 ```sh
   $ git clone https://github.com/phinheiro/proffy-web.git
-  
- Em seguida, digite os comandos abaixo
 ```
+ Em seguida, digite os comandos abaixo:
 ```sh
   $ yarn add (ou simplesmente yarn)
   $ yarn start
