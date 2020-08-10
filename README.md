@@ -4,6 +4,8 @@ Aplicação web desenvolvida com ReactJS durante a Next Level Week #2 da [Rocket
 ## Tecnologias utilizadas
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
+- [SQLite](https://www.sqlite.org/)
+- [Knex](https://knexjs.org)
 
 ## Como utilizar
 Primeiro, clone este repositório:
@@ -13,5 +15,6 @@ Primeiro, clone este repositório:
  Em seguida, digite os comandos abaixo:
 ```sh
   $ yarn add (ou simplesmente yarn)
+  $ yarn knex:migrate
   $ yarn start
 ```
